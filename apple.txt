@@ -4,3 +4,8 @@ Airoli
 hello
 venu
 bhaskar
+
+apple
+
+orange
+banana
